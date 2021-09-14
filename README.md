@@ -12,3 +12,4 @@ python3 seo.py -u http://www.aizhan.com
 
 ####域名批量查询
 python3 seo.py -r /Download/domain.txt
+![{4E71D698-7E65-E88E-6751-D2C1BCDE79EE}](https://user-images.githubusercontent.com/64306303/133242278-bb11e06a-87b3-47c4-9ade-4cd987e27f3a.jpg)
