@@ -7,9 +7,9 @@ Python3编写的一个批量查询SEO权重查询脚本，目前支持单次查�
 
 python3 seo.py -u http://www.aizhan.com
 
-![{352335C5-AF2F-40EF-9140-AFA3EE95F23D}](https://user-images.githubusercontent.com/64306303/133241698-3832d582-e0a6-4005-99cb-172db1b97ced.jpg)
+![image](https://user-images.githubusercontent.com/64306303/133242445-a1dea49e-14e1-43e3-854b-0ff6e74d7306.png)
 
 
 ####域名批量查询
 python3 seo.py -r /Download/domain.txt
-![{4E71D698-7E65-E88E-6751-D2C1BCDE79EE}](https://user-images.githubusercontent.com/64306303/133242278-bb11e06a-87b3-47c4-9ade-4cd987e27f3a.jpg)
+![image](https://user-images.githubusercontent.com/64306303/133242527-2494a5f6-83fc-4afb-952d-2767a12a2631.png)
